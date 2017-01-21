@@ -1,1 +1,1 @@
-# This repo contains sample projects of my NLP practice projects.
+# This repo contains sample projects of my NLP practice.
